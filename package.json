@@ -4,7 +4,8 @@
   "description": "A minimalist WordPress theme, initially for personal purpose. Inspired by mnmlist (http://mnmlist.com/).",
   "keywords": "theme, wordpress",
   "author": "Phan An <me@phanan.net>",
-  "license": "Public Domain",
+  "homepage": "https://github.com/phanan/log/",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "~3.8.5",
     "gulp-util": "~2.2.19",

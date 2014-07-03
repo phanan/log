@@ -10,7 +10,7 @@
 </div>
 
 <footer id="mainFooter">
-    by <a href="//phanan.net">Phan An</a>, using <a href="https://github.com/Phoenixheart/log/">Log</a> theme
+    by <a href="//phanan.net">Phan An</a>, using <a href="https://github.com/phanan/log/">Log</a> theme
 </footer>
 <?php wp_footer(); ?>
 
