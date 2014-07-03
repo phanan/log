@@ -18,9 +18,10 @@ There are no post or page titles in favor of `<time>`, but it should take you no
 ## Demo
 See the theme in action [here](http://log.phanan.net).
 
-## Installation
+## Requirements &amp; Installation
 
-From inside your site's `wp-content/themes` folder:
+_Log_ requires PHP 5.4 or newer. To install, from inside your site's `wp-content/themes` folder, run:
+
 ```bash
 git clone https://github.com/phanan/log.git
 cd log
