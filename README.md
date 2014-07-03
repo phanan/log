@@ -22,7 +22,7 @@ See the theme in action [here](http://log.phanan.net).
 
 From inside your site's `wp-content/themes` folder:
 ```bash
-git clone https://github.com/Phoenixheart/log.git
+git clone https://github.com/phanan/log.git
 cd log
 npm install
 gulp
