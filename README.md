@@ -21,7 +21,6 @@ See the theme in action [here](http://log.phanan.net).
 ## Installation
 
 From inside your site's `wp-content/themes` folder:
-
 ```bash
 git clone https://github.com/Phoenixheart/log.git
 cd log
