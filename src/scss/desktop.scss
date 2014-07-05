@@ -87,12 +87,19 @@ p {
     }
 }
 
-pre {
-    font-size: .8em;
-}
 
 blockquote {
     padding-left: 10px;
     border-left: 10px solid #ddd;
     font-style: italic;
+}
+
+pre {
+    font-size: .8em;
+}
+
+// Inline code only. Code block should be handled by Prism
+p code {
+    font-family: Monaco, monospace;
+    background: #efefef;
 }
